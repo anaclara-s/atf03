@@ -1,5 +1,5 @@
 Código escrito em Java usa as classes LinkedList(encadeada), Stack(pilha) e Queue(fila).
-Código escrito em Java usa as classes LinkedList(encadeada), Stack(pilha) e Queue(fila).
+
 
 Cria uma lista encadeada(LinkedList) e insere números inteiros de 1 a 5. 
 Em seguida, remove esses números da lista e adiciona-os a uma pilha(Stack).
